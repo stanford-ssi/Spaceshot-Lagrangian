@@ -5,4 +5,4 @@ For a primer on Lagrangians, see the PDF by Chandler (@uwu) which provides a bac
 
 Uses SymPy’s LagrangesMethod (https://docs.sympy.org/latest/modules/physics/mechanics/lagrange.html)
 
-In order to get involved, slack @John Bailey and get on #Spaceshot-Dynamics! Let's go to space!!
+In order to get involved, slack @John Bailey and get on #Spaceshot-Dynamics! Let's go to space!
